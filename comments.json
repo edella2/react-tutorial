@@ -8,5 +8,20 @@
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1454299861830,
+        "author": "Eric",
+        "text": "Yeah it's actually pretty awesome"
+    },
+    {
+        "id": 1454299882039,
+        "author": "Eric Dell'Aringa",
+        "text": "There's only a few confusing things, but getting the hang of it"
+    },
+    {
+        "id": 1454300028631,
+        "author": "Eric optimistically",
+        "text": "Instant comments are cool"
     }
 ]
